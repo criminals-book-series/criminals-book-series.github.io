@@ -1,0 +1,15 @@
+body {
+  font-family: Arial;
+}
+ul.a {
+  list-style-type: decimal;
+}
+ul.b {
+  list-style-type: lower-alpha;
+}
+ul.c {
+  list-style-type: lower-roman;
+}
+ul.d {
+  list-style-type: upper-alpha;
+}
